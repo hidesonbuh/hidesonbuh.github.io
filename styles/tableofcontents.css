@@ -1,0 +1,32 @@
+```
+
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  width: 130px;
+  background-color: #eef;
+  text-decoration: none;
+  color: #27408B;
+  text-align:center; 
+
+}
+
+ 
+/* 鼠标移动到选项上修改背景颜色 */
+li a:hover {
+    background-color: #FFF;
+	color: #CD6600
+}
+</style>
+
+
+
+
+```
+
