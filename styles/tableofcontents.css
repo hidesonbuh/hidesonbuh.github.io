@@ -1,11 +1,8 @@
-```
-
 <style>
-ul {
+ul.contents{
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px
 }
 
 li a {
@@ -23,12 +20,5 @@ li a {
 li a:hover {
     background-color: #FFF;
 	color: #CD6600;
-	text-decoration: none;
 }
 </style>
-
-
-
-
-```
-
